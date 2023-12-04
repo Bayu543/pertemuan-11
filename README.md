@@ -248,4 +248,4 @@ while True:
 ### *Hasil hanya sebagin dari fungsi program*
 
 ## Flowchart
-<img src="flowchart/flowchart ss.png">
+<img src="flowchart/Flowchart.png">
